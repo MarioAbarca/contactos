@@ -1,0 +1,8 @@
+{
+  "name": "Contactos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "259ffb3d"
+}
